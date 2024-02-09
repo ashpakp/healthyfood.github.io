@@ -464,7 +464,8 @@ h1 {
   }
   #hero {
     text-align: center;
-    padding-top: 58px;
+    padding-top: 8em;
+    height: auto;
   }
 
   #hero h1 {
